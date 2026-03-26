@@ -5,12 +5,16 @@
     "description": """
 Production-ready warehouse access restriction module for Odoo 18.
 Users can access only assigned warehouses and related stock records.
+
+Author:   Haytham Afify
+Email:    haythamgamal6@gmail.com
+GitHub:   https://github.com/haythamafify
+LinkedIn: https://www.linkedin.com/in/haytham-gamal-4165797a/
     """,
     "category": "Inventory",
     "author": "Haytham Afify",
-    "website": "https://github.com/haythamafify/custom_addons",
-    "github": "https://github.com/haythamafify",
-    "linkedin": "https://www.linkedin.com/in/haytham-gamal-4165797a/",
+    "maintainer": "Haytham Afify <haythamgamal6@gmail.com>",
+    "website": "https://github.com/haythamafify",
     "license": "LGPL-3",
     "depends": ["stock"],
     "data": [
